@@ -74,12 +74,12 @@ export const emptyResume = (): Resume => ({
 
 export const sampleResume = (): Resume => ({
   heading: {
-    name: 'Jane Doe',
+    name: 'Rey Rey',
     phone: '+1 (555) 123-4567',
-    email: 'jane.doe@example.com',
-    linkedin: 'linkedin.com/in/janedoe',
-    github: 'github.com/janedoe',
-    website: 'janedoe.dev',
+    email: 'rey.rey@example.com',
+    linkedin: 'linkedin.com/in/reyrey',
+    github: 'github.com/reyrey',
+    website: 'reyrey.dev',
     location: 'San Francisco, CA',
     summary:
       'Backend engineer with 4+ years building distributed systems in Go and Python. Focused on reliability, performance, and clear, maintainable code.',
