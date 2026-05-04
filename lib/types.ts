@@ -82,7 +82,7 @@ export const sampleResume = (): Resume => ({
     website: 'reyrey.dev',
     location: 'San Francisco, CA',
     summary:
-      'Backend engineer with 4+ years building distributed systems in Go and Python. Focused on reliability, performance, and clear, maintainable code.',
+      'I know u hate updating your resume, but I promise this one will make your life easier.',
   },
   education: [
     {
